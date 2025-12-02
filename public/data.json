@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Taquería La Family",
+    "phone": "(540) 315-6028",
+    "address": "3940 S Main St, Blacksburg, VA, United States, Virginia, 24060",
+    "hours": "Monday–Friday 11 AM – 9 PM",
+    "facebook": "https://www.facebook.com/taquerialafamily",
+    "instagram": "",
+    "email": ""
+  },
+
+  "menu": [
+    {
+      "category": "Tacos",
+      "items": [
+        { "name": "Asada (Beef)", "price": "2.50" },
+        { "name": "Pollo (Chicken)", "price": "2.50" },
+        { "name": "Pastor w/ Pineapple", "price": "2.50" },
+        { "name": "Chorizo", "price": "2.50" },
+        { "name": "Carnitas", "price": "2.50" },
+        { "name": "Quesabirria", "price": "3.00" },
+        { "name": "Tripa", "price": "3.00" }
+      ]
+    },
+    {
+      "category": "Quesadillas",
+      "items": [
+        { "name": "Asada / Chicken / Pastor", "price": "8.00" },
+        { "name": "Chorizo and Cheese", "price": "8.00" },
+        { "name": "Carnitas", "price": "8.00" },
+        { "name": "Birria", "price": "9.00" },
+        { "name": "Tripa", "price": "9.00" }
+      ]
+    },
+    {
+      "category": "Tortas",
+      "items": [
+        { "name": "Asada / Chicken / Pastor / Chorizo", "price": "10.00" },
+        { "name": "Carnitas", "price": "10.00" },
+        { "name": "Birria", "price": "11.00" },
+        { "name": "Tripa", "price": "11.00" }
+      ]
+    },
+    {
+      "category": "Burritos",
+      "items": [
+        { "name": "Asada / Chicken / Pastor / Chorizo", "price": "10.00" },
+        { "name": "Carnitas", "price": "10.00" },
+        { "name": "Birria", "price": "11.00" },
+        { "name": "Tripa", "price": "11.00" }
+      ]
+    },
+    {
+      "category": "Sopes",
+      "items": [
+        { "name": "Asada / Chicken / Pastor / Chorizo", "price": "4.50" },
+        { "name": "Carnitas", "price": "5.00" },
+        { "name": "Birria", "price": "4.50" },
+        { "name": "Tripa", "price": "5.00" }
+      ]
+    },
+    {
+      "category": "Platos Hondureños",
+      "items": [
+        { "name": "Pollo con Tajadas (Fried Chicken w/ Plantains)", "price": "15.00" },
+        { "name": "Chuleta con Tajadas (Pork Chop w/ Plantains)", "price": "15.00" },
+        { "name": "Tacos Catrachos (Honduran Tacos)", "price": "10.00" },
+        { "name": "Pastelitos (Stuffed Corn Dough w/ Beef & Rice)", "price": "10.00" },
+        { "name": "Salchipapas (Fries w/ Sausage, Ketchup, Mayo, Mustard)", "price": "8.00" },
+        { "name": "Tamales (Honduran Style – Chicken or Pork)", "price": "4.00" }
+      ]
+    }
+  ],
+
+  "about": {
+    "en": {
+      "title": "About Us",
+      "text": "We are a family with a dream that started many years ago — to have our own business and share what we love the most: cooking with love! We started this project because we wanted to spend more time together and bring our community a taste of the flavors that represent us.\n\nAfter many years of experience in the food industry, we created Taquería La Family, a place where we combine the best of Mexican and Honduran cuisine, with a homemade, authentic touch that makes you feel right at home.\n\nMore than just a food truck, we are a family serving with passion and heart. ❤️"
+    },
+    "es": {
+      "title": "Nosotros",
+      "text": "Somos una familia con un sueño que nació hace muchos años: tener nuestro propio negocio y compartir lo que más nos gusta hacer, ¡cocinar con amor! Decidimos comenzar este proyecto porque queríamos pasar más tiempo juntos y ofrecer a nuestra comunidad un pedacito del sabor que nos representa.\n\nDespués de muchos años de experiencia en el ambiente de comida, creamos Taquería La Family, un lugar donde combinamos lo mejor de la comida mexicana y hondureña, con un toque casero y auténtico que te hará sentir como en casa.\n\nMás que un food truck, somos una familia sirviendo con pasión y cariño. ❤️"
+    }
+  }
+}

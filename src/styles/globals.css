@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ring: theme('colors.primary');
+}
+
+.section {
+  @apply max-w-6xl mx-auto px-4 sm:px-6 lg:px-8;
+}
